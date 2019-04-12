@@ -1,0 +1,80 @@
+html {
+ height: 100%;
+ position: relative;   
+}
+
+body {
+    text-align: center
+}
+
+#form-wrapper {
+    width: 100%;
+    min-height: 80%;
+    box-sizing: border-box;
+    padding: 5% 0;
+    margin: 5% 0; 
+
+}
+
+#pre-form{
+    position: relative;
+    top: 20%;
+
+}
+
+button {
+display: block;
+width: 960px;
+height: 95px;
+margin: 10px auto 0;
+font-size: 41px;
+/* color: ghostwhite; */
+text-shadow: 2px 2px blue;
+font-family: voltaire, sans-serif;
+cursor: pointer;
+background-color: black
+
+}
+
+h1 {
+    margin-bottom: 30px;
+    font-family: voltaire, sans-serif;
+    font-size: 5.5;
+    font-weight: bold;
+    color: brown;
+    font-style: italic;
+    margin: auto;
+}
+
+h2{
+    font-size: 30px;
+
+}
+
+h3{
+    margin-bottom: 10px;
+    font-size: 25px;
+}
+
+#start{
+
+margin-top: 10%;
+border: 5px solid rgb(253,243,98);
+/* color: ghostwhite; */
+}
+
+#form-area{
+margin-top: 20px
+}
+
+#form-area h2{
+    margin-top: 50px;
+}
+
+#form-area h3{
+    margin-bottom: 20px;
+}
+
+.jumbotron {
+    background: transparent;
+}
